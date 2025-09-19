@@ -1,0 +1,3004 @@
+{
+    "images": [
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_197_obstacle.jpg",
+            "id": 0,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_35_obstacle.jpg",
+            "id": 1,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_64_obstacle.jpg",
+            "id": 2,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_100_obstacle.jpg",
+            "id": 3,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_137_obstacle.jpg",
+            "id": 4,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_292_obstacle.jpg",
+            "id": 5,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_205_obstacle.jpg",
+            "id": 6,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_166_obstacle.jpg",
+            "id": 7,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145052_fa2sd4a09S151AIR_420_1626164733_1626165003_165_obstacle.jpg",
+            "id": 8,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_112_obstacle.jpg",
+            "id": 9,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_242_obstacle.jpg",
+            "id": 10,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_299_obstacle.jpg",
+            "id": 11,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_224_obstacle.jpg",
+            "id": 12,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_149_obstacle.jpg",
+            "id": 13,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_160_obstacle.jpg",
+            "id": 14,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_3_obstacle.jpg",
+            "id": 15,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_174_obstacle.jpg",
+            "id": 16,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_10_obstacle.jpg",
+            "id": 17,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_4_obstacle.jpg",
+            "id": 18,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_79_obstacle.jpg",
+            "id": 19,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_239_obstacle.jpg",
+            "id": 20,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_298_obstacle.jpg",
+            "id": 21,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_241_obstacle.jpg",
+            "id": 22,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145054_fa2sd4a09S151AIR_420_1626165535_1626165806_3_obstacle.jpg",
+            "id": 23,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_26_obstacle.jpg",
+            "id": 24,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_88_obstacle.jpg",
+            "id": 25,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_141_obstacle.jpg",
+            "id": 26,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_265_obstacle.jpg",
+            "id": 27,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_81_obstacle.jpg",
+            "id": 28,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_235_obstacle.jpg",
+            "id": 29,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_24_obstacle.jpg",
+            "id": 30,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_177_obstacle.jpg",
+            "id": 31,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_92_obstacle.jpg",
+            "id": 32,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145052_fa2sd4a09S151AIR_420_1626164733_1626165003_170_obstacle.jpg",
+            "id": 33,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_25_obstacle.jpg",
+            "id": 34,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_248_obstacle.jpg",
+            "id": 35,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_145_obstacle.jpg",
+            "id": 36,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_170_obstacle.jpg",
+            "id": 37,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_32_obstacle.jpg",
+            "id": 38,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_188_obstacle.jpg",
+            "id": 39,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_58_obstacle.jpg",
+            "id": 40,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145052_fa2sd4a09S151AIR_420_1626164733_1626165003_120_obstacle.jpg",
+            "id": 41,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_203_obstacle.jpg",
+            "id": 42,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_300_obstacle.jpg",
+            "id": 43,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_70_obstacle.jpg",
+            "id": 44,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_262_obstacle.jpg",
+            "id": 45,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62517_fa2sd4a10East154_420_1625824486_1625825247_213_obstacle.jpg",
+            "id": 46,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_65_obstacle.jpg",
+            "id": 47,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_96_obstacle.jpg",
+            "id": 48,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_149_obstacle.jpg",
+            "id": 49,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_220_obstacle.jpg",
+            "id": 50,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_219_obstacle.jpg",
+            "id": 51,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_83_obstacle.jpg",
+            "id": 52,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_117_obstacle.jpg",
+            "id": 53,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_58_obstacle.jpg",
+            "id": 54,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_300_obstacle.jpg",
+            "id": 55,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_88_obstacle.jpg",
+            "id": 56,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_3_obstacle.jpg",
+            "id": 57,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_132_obstacle.jpg",
+            "id": 58,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_156_obstacle.jpg",
+            "id": 59,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145417_fa2sd4a10W152AIR_420_1626161037_1626161300_38_obstacle.jpg",
+            "id": 60,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_15_obstacle.jpg",
+            "id": 61,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_197_obstacle.jpg",
+            "id": 62,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_100_obstacle.jpg",
+            "id": 63,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62540_fa2sd4a16East154_420_1625808117_1625808861_156_obstacle.jpg",
+            "id": 64,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_220_obstacle.jpg",
+            "id": 65,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145043_fa2sd4a06W152AIR_420_1626157310_1626157320_16_obstacle.jpg",
+            "id": 66,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62536_fa2sd4a16North153_420_1625808119_1625808869_123_obstacle.jpg",
+            "id": 67,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_8_obstacle.jpg",
+            "id": 68,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_92_obstacle.jpg",
+            "id": 69,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_247_obstacle.jpg",
+            "id": 70,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_99_obstacle.jpg",
+            "id": 71,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_250_obstacle.jpg",
+            "id": 72,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_156_obstacle.jpg",
+            "id": 73,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_95_obstacle.jpg",
+            "id": 74,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_92_obstacle.jpg",
+            "id": 75,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_258_obstacle.jpg",
+            "id": 76,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_293_obstacle.jpg",
+            "id": 77,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_101_obstacle.jpg",
+            "id": 78,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_147_obstacle.jpg",
+            "id": 79,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_11_obstacle.jpg",
+            "id": 80,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145054_fa2sd4a09S151AIR_420_1626165535_1626165806_161_obstacle.jpg",
+            "id": 81,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_164_obstacle.jpg",
+            "id": 82,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_147_obstacle.jpg",
+            "id": 83,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_129_obstacle.jpg",
+            "id": 84,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_111_obstacle.jpg",
+            "id": 85,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_233_obstacle.jpg",
+            "id": 86,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_140_obstacle.jpg",
+            "id": 87,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_125_obstacle.jpg",
+            "id": 88,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_251_obstacle.jpg",
+            "id": 89,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_294_obstacle.jpg",
+            "id": 90,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62541_fa2sd4a16East154_420_1625808865_1625809623_268_obstacle.jpg",
+            "id": 91,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_36_obstacle.jpg",
+            "id": 92,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_182_obstacle.jpg",
+            "id": 93,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_43_obstacle.jpg",
+            "id": 94,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_123_obstacle.jpg",
+            "id": 95,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62541_fa2sd4a16East154_420_1625808865_1625809623_115_obstacle.jpg",
+            "id": 96,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_130_obstacle.jpg",
+            "id": 97,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_49_obstacle.jpg",
+            "id": 98,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_59_obstacle.jpg",
+            "id": 99,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_204_obstacle.jpg",
+            "id": 100,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_178_obstacle.jpg",
+            "id": 101,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_26_obstacle.jpg",
+            "id": 102,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_254_obstacle.jpg",
+            "id": 103,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_152_obstacle.jpg",
+            "id": 104,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_266_obstacle.jpg",
+            "id": 105,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_190_obstacle.jpg",
+            "id": 106,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_121_obstacle.jpg",
+            "id": 107,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_243_obstacle.jpg",
+            "id": 108,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_40_obstacle.jpg",
+            "id": 109,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_226_obstacle.jpg",
+            "id": 110,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_256_obstacle.jpg",
+            "id": 111,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_129_obstacle.jpg",
+            "id": 112,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_118_obstacle.jpg",
+            "id": 113,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_72_obstacle.jpg",
+            "id": 114,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62538_fa2sd4a16East154_420_1625809624_1625810158_167_obstacle.jpg",
+            "id": 115,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_112_obstacle.jpg",
+            "id": 116,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_100_obstacle.jpg",
+            "id": 117,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_199_obstacle.jpg",
+            "id": 118,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_98_obstacle.jpg",
+            "id": 119,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_227_obstacle.jpg",
+            "id": 120,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_162_obstacle.jpg",
+            "id": 121,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145417_fa2sd4a10W152AIR_420_1626161037_1626161300_41_obstacle.jpg",
+            "id": 122,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_110_obstacle.jpg",
+            "id": 123,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_132_obstacle.jpg",
+            "id": 124,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_5_obstacle.jpg",
+            "id": 125,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_68_obstacle.jpg",
+            "id": 126,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_207_obstacle.jpg",
+            "id": 127,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_131_obstacle.jpg",
+            "id": 128,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_145_obstacle.jpg",
+            "id": 129,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_257_obstacle.jpg",
+            "id": 130,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_215_obstacle.jpg",
+            "id": 131,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_219_obstacle.jpg",
+            "id": 132,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_88_obstacle.jpg",
+            "id": 133,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_210_obstacle.jpg",
+            "id": 134,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_297_obstacle.jpg",
+            "id": 135,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_13_obstacle.jpg",
+            "id": 136,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62517_fa2sd4a10East154_420_1625824486_1625825247_295_obstacle.jpg",
+            "id": 137,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_110_obstacle.jpg",
+            "id": 138,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_203_obstacle.jpg",
+            "id": 139,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_145_obstacle.jpg",
+            "id": 140,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_204_obstacle.jpg",
+            "id": 141,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_70_obstacle.jpg",
+            "id": 142,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_129_obstacle.jpg",
+            "id": 143,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145058_fa2sd4a09S151AIR_420_1626167049_1626167205_226_obstacle.jpg",
+            "id": 144,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_206_obstacle.jpg",
+            "id": 145,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_85_obstacle.jpg",
+            "id": 146,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_218_obstacle.jpg",
+            "id": 147,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_201_obstacle.jpg",
+            "id": 148,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62537_fa2sd4a16North153_420_1625808873_1625809618_270_obstacle.jpg",
+            "id": 149,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_149_obstacle.jpg",
+            "id": 150,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_291_obstacle.jpg",
+            "id": 151,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145048_fa2sd4a08E154AIR_420_1626240189_1626240424_128_obstacle.jpg",
+            "id": 152,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_86_obstacle.jpg",
+            "id": 153,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_276_obstacle.jpg",
+            "id": 154,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_229_obstacle.jpg",
+            "id": 155,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_90_obstacle.jpg",
+            "id": 156,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_96_obstacle.jpg",
+            "id": 157,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_52_obstacle.jpg",
+            "id": 158,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_264_obstacle.jpg",
+            "id": 159,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_122_obstacle.jpg",
+            "id": 160,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62536_fa2sd4a16North153_420_1625808119_1625808869_177_obstacle.jpg",
+            "id": 161,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_224_obstacle.jpg",
+            "id": 162,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_225_obstacle.jpg",
+            "id": 163,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_158_obstacle.jpg",
+            "id": 164,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_134_obstacle.jpg",
+            "id": 165,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62537_fa2sd4a16North153_420_1625808873_1625809618_179_obstacle.jpg",
+            "id": 166,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_148_obstacle.jpg",
+            "id": 167,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_236_obstacle.jpg",
+            "id": 168,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_43_obstacle.jpg",
+            "id": 169,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_121_obstacle.jpg",
+            "id": 170,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_131_obstacle.jpg",
+            "id": 171,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_154_obstacle.jpg",
+            "id": 172,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_238_obstacle.jpg",
+            "id": 173,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_13_obstacle.jpg",
+            "id": 174,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_23_obstacle.jpg",
+            "id": 175,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_249_obstacle.jpg",
+            "id": 176,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_138_obstacle.jpg",
+            "id": 177,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_222_obstacle.jpg",
+            "id": 178,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_158_obstacle.jpg",
+            "id": 179,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_111_obstacle.jpg",
+            "id": 180,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_142_obstacle.jpg",
+            "id": 181,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_158_obstacle.jpg",
+            "id": 182,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_48_obstacle.jpg",
+            "id": 183,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_264_obstacle.jpg",
+            "id": 184,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_287_obstacle.jpg",
+            "id": 185,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_170_obstacle.jpg",
+            "id": 186,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_107_obstacle.jpg",
+            "id": 187,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_12_obstacle.jpg",
+            "id": 188,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_74_obstacle.jpg",
+            "id": 189,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_269_obstacle.jpg",
+            "id": 190,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_134_obstacle.jpg",
+            "id": 191,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_85_obstacle.jpg",
+            "id": 192,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_36_obstacle.jpg",
+            "id": 193,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_143_obstacle.jpg",
+            "id": 194,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_87_obstacle.jpg",
+            "id": 195,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_267_obstacle.jpg",
+            "id": 196,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62537_fa2sd4a16North153_420_1625808873_1625809618_159_obstacle.jpg",
+            "id": 197,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_227_obstacle.jpg",
+            "id": 198,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_154_obstacle.jpg",
+            "id": 199,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_86_obstacle.jpg",
+            "id": 200,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_30_obstacle.jpg",
+            "id": 201,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_47_obstacle.jpg",
+            "id": 202,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_117_obstacle.jpg",
+            "id": 203,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_157_obstacle.jpg",
+            "id": 204,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_260_obstacle.jpg",
+            "id": 205,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_113_obstacle.jpg",
+            "id": 206,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_182_obstacle.jpg",
+            "id": 207,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_86_obstacle.jpg",
+            "id": 208,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_271_obstacle.jpg",
+            "id": 209,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_263_obstacle.jpg",
+            "id": 210,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_278_obstacle.jpg",
+            "id": 211,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_261_obstacle.jpg",
+            "id": 212,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_267_obstacle.jpg",
+            "id": 213,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_234_obstacle.jpg",
+            "id": 214,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_242_obstacle.jpg",
+            "id": 215,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_132_obstacle.jpg",
+            "id": 216,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_170_obstacle.jpg",
+            "id": 217,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_150_obstacle.jpg",
+            "id": 218,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_287_obstacle.jpg",
+            "id": 219,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_288_obstacle.jpg",
+            "id": 220,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145414_fa2sd4a10W152AIR_420_1626161301_1626161686_274_obstacle.jpg",
+            "id": 221,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_264_obstacle.jpg",
+            "id": 222,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_217_obstacle.jpg",
+            "id": 223,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_102_obstacle.jpg",
+            "id": 224,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_92_obstacle.jpg",
+            "id": 225,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_148_obstacle.jpg",
+            "id": 226,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145058_fa2sd4a09S151AIR_420_1626167049_1626167205_209_obstacle.jpg",
+            "id": 227,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_218_obstacle.jpg",
+            "id": 228,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_245_obstacle.jpg",
+            "id": 229,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145052_fa2sd4a09S151AIR_420_1626164733_1626165003_123_obstacle.jpg",
+            "id": 230,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_63_obstacle.jpg",
+            "id": 231,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_213_obstacle.jpg",
+            "id": 232,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_75_obstacle.jpg",
+            "id": 233,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_49_obstacle.jpg",
+            "id": 234,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_36_obstacle.jpg",
+            "id": 235,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145048_fa2sd4a08E154AIR_420_1626240189_1626240424_101_obstacle.jpg",
+            "id": 236,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145055_fa2sd4a09S151AIR_420_1626165806_1626166384_256_obstacle.jpg",
+            "id": 237,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_172_obstacle.jpg",
+            "id": 238,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_235_obstacle.jpg",
+            "id": 239,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_238_obstacle.jpg",
+            "id": 240,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_10_obstacle.jpg",
+            "id": 241,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_31_obstacle.jpg",
+            "id": 242,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_175_obstacle.jpg",
+            "id": 243,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_249_obstacle.jpg",
+            "id": 244,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_86_obstacle.jpg",
+            "id": 245,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_41_obstacle.jpg",
+            "id": 246,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_91_obstacle.jpg",
+            "id": 247,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_30_obstacle.jpg",
+            "id": 248,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_107_obstacle.jpg",
+            "id": 249,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_235_obstacle.jpg",
+            "id": 250,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_251_obstacle.jpg",
+            "id": 251,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_130_obstacle.jpg",
+            "id": 252,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_66_obstacle.jpg",
+            "id": 253,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_114_obstacle.jpg",
+            "id": 254,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_101_obstacle.jpg",
+            "id": 255,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_222_obstacle.jpg",
+            "id": 256,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_147_obstacle.jpg",
+            "id": 257,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_173_obstacle.jpg",
+            "id": 258,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_245_obstacle.jpg",
+            "id": 259,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_134_obstacle.jpg",
+            "id": 260,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_11_obstacle.jpg",
+            "id": 261,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_246_obstacle.jpg",
+            "id": 262,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_157_obstacle.jpg",
+            "id": 263,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_137_obstacle.jpg",
+            "id": 264,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_126_obstacle.jpg",
+            "id": 265,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_298_obstacle.jpg",
+            "id": 266,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_262_obstacle.jpg",
+            "id": 267,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_233_obstacle.jpg",
+            "id": 268,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_199_obstacle.jpg",
+            "id": 269,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_269_obstacle.jpg",
+            "id": 270,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_136_obstacle.jpg",
+            "id": 271,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_250_obstacle.jpg",
+            "id": 272,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62534_fa2sd4a16North153_420_1625809619_1625810159_184_obstacle.jpg",
+            "id": 273,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_196_obstacle.jpg",
+            "id": 274,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_180_obstacle.jpg",
+            "id": 275,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_201_obstacle.jpg",
+            "id": 276,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_105_obstacle.jpg",
+            "id": 277,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62541_fa2sd4a16East154_420_1625808865_1625809623_112_obstacle.jpg",
+            "id": 278,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_45_obstacle.jpg",
+            "id": 279,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_240_obstacle.jpg",
+            "id": 280,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_97_obstacle.jpg",
+            "id": 281,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_147_obstacle.jpg",
+            "id": 282,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145055_fa2sd4a09S151AIR_420_1626165806_1626166384_257_obstacle.jpg",
+            "id": 283,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_287_obstacle.jpg",
+            "id": 284,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_52_obstacle.jpg",
+            "id": 285,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_99_obstacle.jpg",
+            "id": 286,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_124_obstacle.jpg",
+            "id": 287,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145054_fa2sd4a09S151AIR_420_1626165535_1626165806_9_obstacle.jpg",
+            "id": 288,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_92_obstacle.jpg",
+            "id": 289,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_158_obstacle.jpg",
+            "id": 290,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_270_obstacle.jpg",
+            "id": 291,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_136_obstacle.jpg",
+            "id": 292,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_139_obstacle.jpg",
+            "id": 293,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_168_obstacle.jpg",
+            "id": 294,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_125_obstacle.jpg",
+            "id": 295,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67993_fa2sd4adatasetfa2sd4a09151_420_1626165686_1626166134_263_obstacle.jpg",
+            "id": 296,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145043_fa2sd4a06W152AIR_420_1626157310_1626157320_17_obstacle.jpg",
+            "id": 297,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_12_obstacle.jpg",
+            "id": 298,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_1_obstacle.jpg",
+            "id": 299,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_186_obstacle.jpg",
+            "id": 300,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_14_obstacle.jpg",
+            "id": 301,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62539_fa2sd4a16East154_420_1625807364_1625808113_70_obstacle.jpg",
+            "id": 302,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_14_obstacle.jpg",
+            "id": 303,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_156_obstacle.jpg",
+            "id": 304,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145058_fa2sd4a09S151AIR_420_1626167049_1626167205_247_obstacle.jpg",
+            "id": 305,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_117_obstacle.jpg",
+            "id": 306,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62539_fa2sd4a16East154_420_1625807364_1625808113_284_obstacle.jpg",
+            "id": 307,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_232_obstacle.jpg",
+            "id": 308,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_117_obstacle.jpg",
+            "id": 309,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_283_obstacle.jpg",
+            "id": 310,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_247_obstacle.jpg",
+            "id": 311,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_7_obstacle.jpg",
+            "id": 312,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_234_obstacle.jpg",
+            "id": 313,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_147_obstacle.jpg",
+            "id": 314,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_198_obstacle.jpg",
+            "id": 315,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_98_obstacle.jpg",
+            "id": 316,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_179_obstacle.jpg",
+            "id": 317,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_181_obstacle.jpg",
+            "id": 318,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_93_obstacle.jpg",
+            "id": 319,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_78_obstacle.jpg",
+            "id": 320,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_64_obstacle.jpg",
+            "id": 321,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_73_obstacle.jpg",
+            "id": 322,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_190_obstacle.jpg",
+            "id": 323,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_154_obstacle.jpg",
+            "id": 324,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_292_obstacle.jpg",
+            "id": 325,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_292_obstacle.jpg",
+            "id": 326,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_10_obstacle.jpg",
+            "id": 327,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_37_obstacle.jpg",
+            "id": 328,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_44_obstacle.jpg",
+            "id": 329,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_79_obstacle.jpg",
+            "id": 330,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_108_obstacle.jpg",
+            "id": 331,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_277_obstacle.jpg",
+            "id": 332,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_9_obstacle.jpg",
+            "id": 333,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_11_obstacle.jpg",
+            "id": 334,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_212_obstacle.jpg",
+            "id": 335,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_84_obstacle.jpg",
+            "id": 336,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_176_obstacle.jpg",
+            "id": 337,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_19_obstacle.jpg",
+            "id": 338,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_200_obstacle.jpg",
+            "id": 339,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_204_obstacle.jpg",
+            "id": 340,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62536_fa2sd4a16North153_420_1625808119_1625808869_22_obstacle.jpg",
+            "id": 341,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62536_fa2sd4a16North153_420_1625808119_1625808869_268_obstacle.jpg",
+            "id": 342,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_203_obstacle.jpg",
+            "id": 343,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_75_obstacle.jpg",
+            "id": 344,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145043_fa2sd4a06W152AIR_420_1626157310_1626157320_2_obstacle.jpg",
+            "id": 345,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_257_obstacle.jpg",
+            "id": 346,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145414_fa2sd4a10W152AIR_420_1626161301_1626161686_296_obstacle.jpg",
+            "id": 347,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_120_obstacle.jpg",
+            "id": 348,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_119_obstacle.jpg",
+            "id": 349,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_94_obstacle.jpg",
+            "id": 350,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_64_obstacle.jpg",
+            "id": 351,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_220_obstacle.jpg",
+            "id": 352,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_9_obstacle.jpg",
+            "id": 353,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67993_fa2sd4adatasetfa2sd4a09151_420_1626165686_1626166134_262_obstacle.jpg",
+            "id": 354,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_207_obstacle.jpg",
+            "id": 355,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_119_obstacle.jpg",
+            "id": 356,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_161_obstacle.jpg",
+            "id": 357,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_193_obstacle.jpg",
+            "id": 358,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_180_obstacle.jpg",
+            "id": 359,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_143_obstacle.jpg",
+            "id": 360,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62534_fa2sd4a16North153_420_1625809619_1625810159_148_obstacle.jpg",
+            "id": 361,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_208_obstacle.jpg",
+            "id": 362,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_113_obstacle.jpg",
+            "id": 363,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67991_fa2sd4adatasetfa2sd4a09151_420_1626164785_1626165235_96_obstacle.jpg",
+            "id": 364,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_195_obstacle.jpg",
+            "id": 365,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_155_obstacle.jpg",
+            "id": 366,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_193_obstacle.jpg",
+            "id": 367,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_134_obstacle.jpg",
+            "id": 368,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_130_obstacle.jpg",
+            "id": 369,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145409_fa2sd4a10W152AIR_420_1626159838_1626160089_17_obstacle.jpg",
+            "id": 370,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_30_obstacle.jpg",
+            "id": 371,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_165_obstacle.jpg",
+            "id": 372,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_82_obstacle.jpg",
+            "id": 373,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145412_fa2sd4a10W152AIR_420_1626160712_1626161037_73_obstacle.jpg",
+            "id": 374,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_65_obstacle.jpg",
+            "id": 375,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_246_obstacle.jpg",
+            "id": 376,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_193_obstacle.jpg",
+            "id": 377,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_265_obstacle.jpg",
+            "id": 378,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_9_obstacle.jpg",
+            "id": 379,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_69_obstacle.jpg",
+            "id": 380,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_23_obstacle.jpg",
+            "id": 381,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_153_obstacle.jpg",
+            "id": 382,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_107_obstacle.jpg",
+            "id": 383,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_266_obstacle.jpg",
+            "id": 384,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62539_fa2sd4a16East154_420_1625807364_1625808113_46_obstacle.jpg",
+            "id": 385,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_211_obstacle.jpg",
+            "id": 386,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_188_obstacle.jpg",
+            "id": 387,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_140_obstacle.jpg",
+            "id": 388,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_252_obstacle.jpg",
+            "id": 389,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_234_obstacle.jpg",
+            "id": 390,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_276_obstacle.jpg",
+            "id": 391,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_188_obstacle.jpg",
+            "id": 392,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_7_obstacle.jpg",
+            "id": 393,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145043_fa2sd4a06W152AIR_420_1626157310_1626157320_18_obstacle.jpg",
+            "id": 394,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_168_obstacle.jpg",
+            "id": 395,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62517_fa2sd4a10East154_420_1625824486_1625825247_222_obstacle.jpg",
+            "id": 396,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_48_obstacle.jpg",
+            "id": 397,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145414_fa2sd4a10W152AIR_420_1626161301_1626161686_277_obstacle.jpg",
+            "id": 398,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_208_obstacle.jpg",
+            "id": 399,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145418_fa2sd4a13W152AIR_420_1626246966_1626246983_12_obstacle.jpg",
+            "id": 400,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_189_obstacle.jpg",
+            "id": 401,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145414_fa2sd4a10W152AIR_420_1626161301_1626161686_287_obstacle.jpg",
+            "id": 402,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_87_obstacle.jpg",
+            "id": 403,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_116_obstacle.jpg",
+            "id": 404,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_49_obstacle.jpg",
+            "id": 405,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_186_obstacle.jpg",
+            "id": 406,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_59_obstacle.jpg",
+            "id": 407,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_66_obstacle.jpg",
+            "id": 408,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145051_fa2sd4a09S151AIR_420_1626165003_1626165406_31_obstacle.jpg",
+            "id": 409,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_96_obstacle.jpg",
+            "id": 410,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145411_fa2sd4a10W152AIR_420_1626160257_1626160533_280_obstacle.jpg",
+            "id": 411,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_244_obstacle.jpg",
+            "id": 412,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_25_obstacle.jpg",
+            "id": 413,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_140_obstacle.jpg",
+            "id": 414,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_195_obstacle.jpg",
+            "id": 415,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_95_obstacle.jpg",
+            "id": 416,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145410_fa2sd4a10W152AIR_420_1626160533_1626160712_30_obstacle.jpg",
+            "id": 417,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67980_fa2sd4adatasetfa2sd4a09151_420_1626164333_1626164784_235_obstacle.jpg",
+            "id": 418,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_230_obstacle.jpg",
+            "id": 419,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62540_fa2sd4a16East154_420_1625808117_1625808861_210_obstacle.jpg",
+            "id": 420,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62538_fa2sd4a16East154_420_1625809624_1625810158_175_obstacle.jpg",
+            "id": 421,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_144_obstacle.jpg",
+            "id": 422,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145048_fa2sd4a08E154AIR_420_1626240189_1626240424_114_obstacle.jpg",
+            "id": 423,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_16_obstacle.jpg",
+            "id": 424,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_46_obstacle.jpg",
+            "id": 425,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_201_obstacle.jpg",
+            "id": 426,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_295_obstacle.jpg",
+            "id": 427,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_183_obstacle.jpg",
+            "id": 428,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_97_obstacle.jpg",
+            "id": 429,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_39_obstacle.jpg",
+            "id": 430,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_270_obstacle.jpg",
+            "id": 431,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_267_obstacle.jpg",
+            "id": 432,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_1_obstacle.jpg",
+            "id": 433,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145052_fa2sd4a09S151AIR_420_1626164733_1626165003_126_obstacle.jpg",
+            "id": 434,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_74_obstacle.jpg",
+            "id": 435,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_163_obstacle.jpg",
+            "id": 436,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_27_obstacle.jpg",
+            "id": 437,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_67_obstacle.jpg",
+            "id": 438,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145054_fa2sd4a09S151AIR_420_1626165535_1626165806_215_obstacle.jpg",
+            "id": 439,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_30_obstacle.jpg",
+            "id": 440,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_171_obstacle.jpg",
+            "id": 441,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_115_obstacle.jpg",
+            "id": 442,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_260_obstacle.jpg",
+            "id": 443,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_139_obstacle.jpg",
+            "id": 444,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_76_obstacle.jpg",
+            "id": 445,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145417_fa2sd4a10W152AIR_420_1626161037_1626161300_40_obstacle.jpg",
+            "id": 446,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_197_obstacle.jpg",
+            "id": 447,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_233_obstacle.jpg",
+            "id": 448,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_154_obstacle.jpg",
+            "id": 449,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62517_fa2sd4a10East154_420_1625824486_1625825247_216_obstacle.jpg",
+            "id": 450,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_261_obstacle.jpg",
+            "id": 451,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_261_obstacle.jpg",
+            "id": 452,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_20_obstacle.jpg",
+            "id": 453,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62540_fa2sd4a16East154_420_1625808117_1625808861_155_obstacle.jpg",
+            "id": 454,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_110_obstacle.jpg",
+            "id": 455,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_162_obstacle.jpg",
+            "id": 456,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_202_obstacle.jpg",
+            "id": 457,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_178_obstacle.jpg",
+            "id": 458,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145414_fa2sd4a10W152AIR_420_1626161301_1626161686_256_obstacle.jpg",
+            "id": 459,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145054_fa2sd4a09S151AIR_420_1626165535_1626165806_205_obstacle.jpg",
+            "id": 460,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_152_obstacle.jpg",
+            "id": 461,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_40_obstacle.jpg",
+            "id": 462,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_131_obstacle.jpg",
+            "id": 463,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145056_fa2sd4a09S151AIR_420_1626166810_1626167049_163_obstacle.jpg",
+            "id": 464,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62535_fa2sd4a16North153_420_1625807368_1625808118_74_obstacle.jpg",
+            "id": 465,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145044_fa2sd4a06W152AIR_420_1626155724_1626155908_176_obstacle.jpg",
+            "id": 466,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_24_obstacle.jpg",
+            "id": 467,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_198_obstacle.jpg",
+            "id": 468,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_60_obstacle.jpg",
+            "id": 469,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_191_obstacle.jpg",
+            "id": 470,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_280_obstacle.jpg",
+            "id": 471,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_283_obstacle.jpg",
+            "id": 472,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62534_fa2sd4a16North153_420_1625809619_1625810159_154_obstacle.jpg",
+            "id": 473,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_53_obstacle.jpg",
+            "id": 474,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145040_fa2sd4a06W152AIR_420_1626155124_1626155723_153_obstacle.jpg",
+            "id": 475,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67995_fa2sd4adatasetfa2sd4a09151_420_1626167038_1626167399_165_obstacle.jpg",
+            "id": 476,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145045_fa2sd4a06W152AIR_420_1626155908_1626156703_247_obstacle.jpg",
+            "id": 477,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145057_fa2sd4a09S151AIR_420_1626166384_1626166810_205_obstacle.jpg",
+            "id": 478,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62517_fa2sd4a10East154_420_1625824486_1625825247_245_obstacle.jpg",
+            "id": 479,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_197_obstacle.jpg",
+            "id": 480,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62539_fa2sd4a16East154_420_1625807364_1625808113_291_obstacle.jpg",
+            "id": 481,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_163_obstacle.jpg",
+            "id": 482,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145043_fa2sd4a06W152AIR_420_1626157310_1626157320_43_obstacle.jpg",
+            "id": 483,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_172_obstacle.jpg",
+            "id": 484,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_77_obstacle.jpg",
+            "id": 485,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_139_obstacle.jpg",
+            "id": 486,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62533_fa2sd4a13East154_420_1625815958_1625816709_87_obstacle.jpg",
+            "id": 487,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145416_fa2sd4a10W152AIR_420_1626161686_1626161960_294_obstacle.jpg",
+            "id": 488,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67992_fa2sd4adatasetfa2sd4a09151_420_1626165236_1626165684_36_obstacle.jpg",
+            "id": 489,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145046_fa2sd4a06W152AIR_420_1626156703_1626157310_292_obstacle.jpg",
+            "id": 490,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145050_fa2sd4a09S151AIR_420_1626164593_1626164733_116_obstacle.jpg",
+            "id": 491,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67994_fa2sd4adatasetfa2sd4a09151_420_1626166135_1626166584_90_obstacle.jpg",
+            "id": 492,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145413_fa2sd4a10W152AIR_420_1626160089_1626160257_38_obstacle.jpg",
+            "id": 493,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145420_fa2sd4a13W152AIR_420_1626245124_1626245482_72_obstacle.jpg",
+            "id": 494,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "67993_fa2sd4adatasetfa2sd4a09151_420_1626165686_1626166134_192_obstacle.jpg",
+            "id": 495,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145053_fa2sd4a09S151AIR_420_1626165406_1626165535_211_obstacle.jpg",
+            "id": 496,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "62531_fa2sd4a13East154_420_1625814455_1625815202_91_obstacle.jpg",
+            "id": 497,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145419_fa2sd4a13W152AIR_420_1626245482_1626246966_30_obstacle.jpg",
+            "id": 498,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "file_name": "145415_fa2sd4a10W152AIR_420_1626161960_1626162131_155_obstacle.jpg",
+            "id": 499,
+            "width": 1920,
+            "height": 1080
+        }
+    ]
+}

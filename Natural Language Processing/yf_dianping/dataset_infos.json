@@ -1,0 +1,1 @@
+{"default":{"features":{"sentence":{"_type":"Value"},"label":{"_type":"Value"},"dataset":{"_type":"Value"}},"splits":{"validation":{"name":"validation","dataset_name":"yf_dianping"},"train":{"name":"train","dataset_name":"yf_dianping"}}},"subset":{"splits":{}}}
